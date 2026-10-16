@@ -1,0 +1,6 @@
+{
+  "name": "OmniStudy AI",
+  "description": "All-in-one AI academic assistant for students featuring Multi-AI Council consensus, step-by-step problem solver, interactive flashcards, practice quizzes, essay grader, and smart study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
